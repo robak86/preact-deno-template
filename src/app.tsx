@@ -1,3 +1,5 @@
+import { h } from "preact";
+
 export default function App() {
   console.log("Hello world!");
   return (
